@@ -1,0 +1,20 @@
+﻿1	101	Anderson	Alice	Marie	F	Single	New York	5th Avenue	Apartment 12B
+2	202	Brown	Brian	Lee	M	Married	Los Angeles	Sunset Blvd	NULL
+3	303	Clark	Catherine	Ann	F	Widowed	Chicago	Lake Shore Drive	Unit 305
+4	404	Davis	Daniel	Edward	M	Single	Houston	Main Street	NULL
+5	105	Evans	Evelyn	Nicole	F	Married	Phoenix	Camelback Road	Suite 10A
+6	206	Foster	Frank	Oliver	M	Divorced	Philadelphia	Market Street	NULL
+7	307	Green	Grace	Elise	F	Single	San Antonio	Broadway	Floor 3
+8	408	Hill	Henry	Paul	M	Widowed	San Diego	Ocean Blvd	NULL
+9	109	Iverson	Isabella	Faith	F	Single	Dallas	Elm Street	Block C
+10	210	Johnson	James	Ray	M	Married	San Jose	Santa Clara St	NULL
+11	311	King	Kara	Jean	F	Married	Austin	Congress Ave	Room 15
+12	412	Lewis	Liam	John	M	Single	Jacksonville	Bay Street	NULL
+13	113	Miller	Mason	George	M	Single	Fort Worth	Main Street	Suite 7
+14	214	Nelson	Nina	Hope	F	Divorced	Columbus	High Street	NULL
+15	315	Owen	Oscar	Patrick	M	Widowed	Charlotte	Tryon Street	Apartment 4D
+16	416	Parker	Paula	Grace	F	Single	San Francisco	Mission St	NULL
+17	117	Quinn	Quincy	Liam	M	Married	Indianapolis	Meridian St	Floor 9
+18	218	Reed	Rachel	Ivy	F	Single	Seattle	Pine Street	NULL
+19	319	Smith	Samuel	Owen	M	Married	Denver	Colfax Ave	Unit B2
+20	420	Taylor	Tina	Rose	F	Widowed	Washington	K Street	NULL
